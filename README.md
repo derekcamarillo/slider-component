@@ -1,12 +1,3 @@
-![banner](https://raw.githubusercontent.com/NightCatSama/vue-slider-component/master/.github/banner.jpg)
-
-[![downloads](https://img.shields.io/npm/dm/vue-slider-component.svg)][npm]
-[![npm-version](https://img.shields.io/npm/v/vue-slider-component.svg)][npm]
-[![license](https://img.shields.io/npm/l/express.svg)]()
-
-> 🎚 A highly customized slider component
-
-English | [简体中文][ch] | [Русский][ru]
 
 ## 🍉 Vue3.x
 
@@ -19,10 +10,6 @@ $ yarn add vue-slider-component@next
 # npm install vue-slider-component@next --save
 ```
 
-#### Breaking Changes
-
-- `value` -> `modelValue`. ([Official API Changes](https://v3-migration.vuejs.org/breaking-changes/v-model.html#v-model))
-
 ## ✨ Features
 
 - 🍖 More customizable
@@ -31,12 +18,6 @@ $ yarn add vue-slider-component@next
 - 📌 Add marks
 - 🎉 Support SSR
 - 🍒 Support Typescript
-
-## 📚 Documentation
-
-Document: <https://nightcatsama.github.io/vue-slider-component>
-
-Live Demo: <https://jsfiddle.net/NightCatSama/2xy72dod/10547/>
 
 ## 🎯 install
 
@@ -97,19 +78,3 @@ export default {
 
 </details>
 
-## Changelog
-
-Detailed changes for each release are documented in the [release notes](https://github.com/NightCatSama/vue-slider-component/blob/master/CHANGELOG.md).
-
-## Support
-
-If my code has helped you, please consider [buy me a coffee](https://www.buymeacoffee.com/nightcat) ☕.
-
-## License
-
-[MIT](https://github.com/NightCatSama/vue-slider-component/blob/master/LICENSE)
-
-[npm]: https://www.npmjs.com/package/vue-slider-component
-[en]: https://github.com/NightCatSama/vue-slider-component/blob/master/README.md
-[ch]: https://github.com/NightCatSama/vue-slider-component/blob/master/README-CN.md
-[ru]: https://github.com/NightCatSama/vue-slider-component/blob/master/README-RU.md
